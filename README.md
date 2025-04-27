@@ -1,43 +1,30 @@
 # EX 4 : ELLIPSE DRAWING ALGORITHM
 
-NAME : MOHAMED NIZAMUDDIN A
-
-REG NO: 212224040194
 
 **AIM :**
-
-
 To  implement the Bresenham’s  algorithm for ellipse using a c coding.
 
-
 **EQUIPMENT REQUIRED:**
-
-
 ●	Hardware: Personal Computer (PC)
-
-
 ●	Software: C Compiler
 
 **ALGORITHM :**
 
 Step 1 : Start.
-  
 Step 2 : Initialize the graphics header files and functions.
-   
 Step 3 : Declare the required variables and functions.
- 
 Step 4 : Get the co-ordinates and radius of the ellipse.
-
 Step 5 : Draw the ellipse using the algorithm.
-
 Step  6 : Display the output.
- 
 Step 7 : stop.
 
 
 **Program :**
 
 ```
+Name:Niranjan S
+Reg.No:212224040221
+
 #include "stdio.h" 
 #include "conio.h" 
 #include "math.h" 
@@ -115,9 +102,7 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 
 **Output :**
-
-![ellipsegamedevlopment](https://github.com/user-attachments/assets/51b06629-23d3-4109-91e3-f236dba53d95)
-
+![437693593-8991da5d-ece2-4286-992f-7bf408dddb21](https://github.com/user-attachments/assets/9e9190ee-7adb-4f0c-ae15-1a7d4f348af1)
 
 **Result :**
 
